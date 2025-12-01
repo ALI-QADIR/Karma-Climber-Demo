@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Karma-Climber-0.1.0";
+const cacheName = "X2C-Karma-Climber-0.1.2";
 const contentToCache = [
-    "Build/v0.1.0.loader.js",
-    "Build/v0.1.0.framework.js.br",
-    "Build/v0.1.0.data.br",
-    "Build/v0.1.0.wasm.br",
+    "Build/v0.1.2.loader.js",
+    "Build/v0.1.2.framework.js.br",
+    "Build/v0.1.2.data.br",
+    "Build/v0.1.2.wasm.br",
     "TemplateData/style.css"
 
 ];
